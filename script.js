@@ -1,1 +1,1 @@
-console.log('ini dari repo localhost');
+console.log('Ini dari github');
